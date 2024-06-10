@@ -34,8 +34,8 @@ body {
   /* Backgrounds
   ================================================================ */
   --cd-body-background-color:            #2B2D42;
-  --cd-content-background-color:         #EDF2F4;
-  --cd-faded-background-color:           #8D99AE;
+  --cd-content-background-color:         #8D99AE;
+  --cd-faded-background-color:           #EDF2F4;
 
   /* Background Extras */
   --cd-body-background-image:             url();
